@@ -1,2 +1,2 @@
-console.log('Hi!')
-console.log('Able')
+console.log('Hi!');
+console.log('Able');
